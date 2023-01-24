@@ -1,6 +1,6 @@
 <!-- Change to an H1 -->
 
-All about Raccoons
+# All about Raccoons
 
 <!-- The text below is ASCII art of a raccoon. Wrap it in a code block. -->
 ```
@@ -29,7 +29,7 @@ In the first decades after its discovery by the members of the expedition of Chr
 
 <!-- Change to an H3 -->
 
-Evolution
+### Evolution
 
 <!-- Create three paragraphs from the following paragraph. You may start the paragraphs wherever you like. -->
 
