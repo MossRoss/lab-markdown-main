@@ -13,7 +13,7 @@
 ```
 <!-- Change to a bullet point and link. -->
 
-* Source https://en.wikipedia.org/wiki/Raccoon
+* [Source](https://en.wikipedia.org/wiki/Raccoon)
 
 <!-- Bold only the first sentence of the following paragraph -->
 
